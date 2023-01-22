@@ -4,6 +4,8 @@
   
 #### I am an Aspiring Software Engineer studying Computer Science at the University of Waterloo
 
-Feel free to reach out to me at sourish10das@gmail.com if you would like to talk
+Feel free to reach out to me at sourish10das@gmail.com or on my LinkedIn if you would like to talk.
+  
+LinkedIn: www.linkedin.com/in/sourishdas
   
 </div>
