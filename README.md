@@ -1,4 +1,4 @@
-<h1 align="center">Hi there I'm Sourish Das.</h1>
+<h1 align="center">Hi there, I'm Sourish Das.</h1>
 <h3 align="center">I am an Aspiring Software Engineer studying Computer Science at the University of Waterloo</h3>
 
 
