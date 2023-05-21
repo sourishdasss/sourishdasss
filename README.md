@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Sourish Das.</h1>
 <h3 align="center">I am an aspiring Software Engineer studying Computer Science at the University of Waterloo</h3>
 
-<h4 align="center">Check out my personal website: https://sourishdas.vercel.app</h3>
+<h4 align="center">Check out my personal website:</h4>
+<h3 align="center">https://sourishdas.vercel.app</h3>
 
 <h4 align="center">Connect with me:</h4>
 
