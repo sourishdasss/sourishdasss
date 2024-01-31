@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sourish Das! 👋</h1>
 
-I am currently a Computer Science Student at the University of Waterloo
+Hi, I am a Computer Science Student at the University of Waterloo!
 
 ### Reach Out!
 <h4>Check out my Personal Website: https://sourishdas.vercel.app</h4>
