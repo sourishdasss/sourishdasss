@@ -31,4 +31,4 @@ Hi, I am a Computer Science Student at the University of Waterloo!
 
 
 ### Github Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=sourishdas07&theme=shades-of-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sourishdasss&theme=shades-of-green)](https://git.io/streak-stats)
