@@ -28,7 +28,3 @@ Hi, I am a Computer Science Student at the University of Waterloo!
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-
-### Github Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=sourishdasss&theme=shades-of-green)](https://git.io/streak-stats)
